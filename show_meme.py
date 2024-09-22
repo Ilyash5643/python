@@ -12,6 +12,3 @@ if __name__ == '__main__':
     plt.axis('off')
     plt.show()
 
-
-# чиним баг
-
